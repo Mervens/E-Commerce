@@ -11,15 +11,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/Mervens/E-Commerce.git"
   },
   "keywords": [],
   "author": "Mervens Victor",
-  "license": "ISC",
+  "license": "ISC",  
+  "bugs": {
+    "url": "https://github.com/Mervens/E-Commerce/issues"
+  },
+  "homepage": "https://github.com/Mervens/E-Commerce#readme",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^8.6.0",
     "express": "^4.17.1",
     "mysql2": "^2.3.0",

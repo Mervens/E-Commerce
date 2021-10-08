@@ -16,32 +16,39 @@ THEN I am able to successfully create, update, and delete data in my database
 # Table Of Contents
 - [Description](#description)
 - [How It Works](#how-it-works)
-- [Example GIF](#gif)
+- [Example](#example)
 
 ## Description  
-This assignment was to create the backend for an e-commerce website to use.
+This assignment was to create the backend for an e-commerce website to use. What this database does is manage GET PUT POST and DELETE requests for products in the API.
 
 ## How It Works  
 
-Install the needed packages using:
+**Install the needed packages using:**
 
 npm init
+
 npm install mysql2
+
 npm install sequelize
+
 npm install dotenv
 
-Now open the SQL:
+
+**Now open the SQL:**
+
 mysql -u root -p
+
 source db/schema.sql
+
 quit
 
-Back to node:
+**Back to node:**
 
 npm run seed
 npm start
 
-## GIF  
-![ECommerceGif](https://user-images.githubusercontent.com/82620500/z132426153-80bc3172-2c03-48e2-b31a-c4b966b5036d.gif)
+## Example
+![ECommerceGif]()
 ![ECommerceGif2](https://user-images.githubusercontent.com/82620500/132426155-6b66c82a-446f-4351-9a80-a5b35e90a0ad.gif)
 
 Shareable link to this repo:  
