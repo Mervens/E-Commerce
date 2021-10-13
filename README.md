@@ -50,7 +50,7 @@ This assignment was to create the backend for an e-commerce website to use. What
 
 **Open Insomnia Core and test the routes**
 ## Example
-![ECommerceVid](https://watch.screencastify.com/v/Hsdx6n7PeP7b1tjR6NCN)
+[ECommerceVid](https://watch.screencastify.com/v/Hsdx6n7PeP7b1tjR6NCN)
 ![ECommerce2](https://user-images.githubusercontent.com/82620500/136679773-4c5acfd8-c67a-4bc5-8c5b-452ed69be078.png)
 
 ## Shareable link to this repo:  
